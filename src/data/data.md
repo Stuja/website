@@ -8,7 +8,7 @@
     <br/> <br/>
     <div>
          <h2>
-      Imagina que pasaría si los estudiantes compatiéramos más 
+      Imagina que pasaría si los estudiantes compartiéramos más 
 	</h2>
     </div>
   <img class="imagen-principal"src="http://i.imgur.com/hhZe3WV.png" width="540">
